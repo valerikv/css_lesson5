@@ -1,0 +1,29 @@
+body
+{
+  width: 100vh;
+  height: 100vh;
+  margin: 0 auto;
+}
+ul
+{
+  text-align: center;
+  font-size: 0;
+  padding: 0;
+}
+li
+{ height: 20vh;
+  width: 20vh;
+  display: table-cell;
+  font-size: 20px;
+  line-height: 20vh;
+}
+.yellow
+{
+  background-color: rgb(255, 207, 115);
+  color: rgb(107, 143, 212);
+}
+.blue
+{
+  background-color: rgb(107, 143, 212);
+  color: rgb(255, 207, 115);
+}
